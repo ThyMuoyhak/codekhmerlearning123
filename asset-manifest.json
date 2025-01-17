@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/codekhmerlearning123/static/css/main.4959ab72.css",
-    "main.js": "/codekhmerlearning123/static/js/main.8236fc7c.js",
-    "static/js/563.30439b55.chunk.js": "/codekhmerlearning123/static/js/563.30439b55.chunk.js",
-    "index.html": "/codekhmerlearning123/index.html",
-    "main.4959ab72.css.map": "/codekhmerlearning123/static/css/main.4959ab72.css.map",
-    "main.8236fc7c.js.map": "/codekhmerlearning123/static/js/main.8236fc7c.js.map",
-    "563.30439b55.chunk.js.map": "/codekhmerlearning123/static/js/563.30439b55.chunk.js.map"
+    "main.css": "/codekhmerlearning1234/static/css/main.4959ab72.css",
+    "main.js": "/codekhmerlearning1234/static/js/main.85b5823b.js",
+    "static/js/563.30439b55.chunk.js": "/codekhmerlearning1234/static/js/563.30439b55.chunk.js",
+    "index.html": "/codekhmerlearning1234/index.html",
+    "main.4959ab72.css.map": "/codekhmerlearning1234/static/css/main.4959ab72.css.map",
+    "main.85b5823b.js.map": "/codekhmerlearning1234/static/js/main.85b5823b.js.map",
+    "563.30439b55.chunk.js.map": "/codekhmerlearning1234/static/js/563.30439b55.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4959ab72.css",
-    "static/js/main.8236fc7c.js"
+    "static/js/main.85b5823b.js"
   ]
 }
