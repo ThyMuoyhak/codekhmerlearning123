@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/codekhmerlearning1234/static/css/main.4959ab72.css",
-    "main.js": "/codekhmerlearning1234/static/js/main.85b5823b.js",
-    "static/js/563.30439b55.chunk.js": "/codekhmerlearning1234/static/js/563.30439b55.chunk.js",
-    "index.html": "/codekhmerlearning1234/index.html",
-    "main.4959ab72.css.map": "/codekhmerlearning1234/static/css/main.4959ab72.css.map",
-    "main.85b5823b.js.map": "/codekhmerlearning1234/static/js/main.85b5823b.js.map",
-    "563.30439b55.chunk.js.map": "/codekhmerlearning1234/static/js/563.30439b55.chunk.js.map"
+    "main.css": "/static/css/main.4959ab72.css",
+    "main.js": "/static/js/main.7a6dda05.js",
+    "static/js/563.30439b55.chunk.js": "/static/js/563.30439b55.chunk.js",
+    "index.html": "/index.html",
+    "main.4959ab72.css.map": "/static/css/main.4959ab72.css.map",
+    "main.7a6dda05.js.map": "/static/js/main.7a6dda05.js.map",
+    "563.30439b55.chunk.js.map": "/static/js/563.30439b55.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4959ab72.css",
-    "static/js/main.85b5823b.js"
+    "static/js/main.7a6dda05.js"
   ]
 }
