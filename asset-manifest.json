@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ThyMuoyhak/codekhmerlearning169/static/css/main.4959ab72.css",
+    "main.js": "/ThyMuoyhak/codekhmerlearning169/static/js/main.cbadb56a.js",
+    "static/js/563.30439b55.chunk.js": "/ThyMuoyhak/codekhmerlearning169/static/js/563.30439b55.chunk.js",
+    "index.html": "/ThyMuoyhak/codekhmerlearning169/index.html",
+    "main.4959ab72.css.map": "/ThyMuoyhak/codekhmerlearning169/static/css/main.4959ab72.css.map",
+    "main.cbadb56a.js.map": "/ThyMuoyhak/codekhmerlearning169/static/js/main.cbadb56a.js.map",
+    "563.30439b55.chunk.js.map": "/ThyMuoyhak/codekhmerlearning169/static/js/563.30439b55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4959ab72.css",
+    "static/js/main.cbadb56a.js"
+  ]
+}

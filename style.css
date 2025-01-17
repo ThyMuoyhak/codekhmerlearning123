@@ -1,0 +1,39 @@
+/* Hero Section */
+.hero {
+    background: url('https://www.shutterstock.com/image-vector/modern-hightech-background-presentations-websites-600nw-2181983721.jpg') no-repeat center center/cover;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    position: relative;
+    font-family: "Koulen", serif;
+}
+
+.hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5); /* Dark overlay */
+}
+
+.hero-content {
+    position: relative;
+    padding: 20px;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 15px 30px;
+    color: #fff;
+    background: #FFD700; /* Gold */
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+    transition: background 0.3s, transform 0.3s;
+}
+
